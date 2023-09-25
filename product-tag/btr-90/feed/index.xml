@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BTR-90 &#8211; wordpress4</title>
+	<atom:link href="https://ye4hen.github.io/allterrain-titans/product-tag/btr-90/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ye4hen.github.io/allterrain-titans</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Sep 2023 07:30:04 +0000</lastBuildDate>
+	<language>uk</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>https://ye4hen.github.io/allterrain-titans/wp-content/uploads/2023/09/logo-2.png</url>
+	<title>BTR-90 &#8211; wordpress4</title>
+	<link>https://ye4hen.github.io/allterrain-titans</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BTR-90</title>
+		<link>https://ye4hen.github.io/allterrain-titans/product/btr-90/</link>
+					<comments>https://ye4hen.github.io/allterrain-titans/product/btr-90/#respond</comments>
+		
+		<dc:creator><![CDATA[wordpress4]]></dc:creator>
+		<pubDate>Sun, 17 Sep 2023 06:20:15 +0000</pubDate>
+				<guid isPermaLink="false">https://ye4hen.github.io/allterrain-titans/?post_type=product#038;p=15</guid>
+
+					<description><![CDATA[BTR-90 "Rostok" (also designated as GAZ-5923) is a Russian armored personnel carrier. Combat wheeled floating armored vehicle, equipped with weapons, intended for use in motorized rifle units of the ground forces.]]></description>
+										<content:encoded><![CDATA[<p>BTR-90 &#8220;Rostok&#8221; (also designated as GAZ-5923) is a Russian armored personnel carrier. Combat wheeled floating armored vehicle, equipped with weapons, intended for use in motorized rifle units of the ground forces.</p>
+<p>The BTR-90 was presented to the public for the first time in 1994. The developer is OJSC Gorky Automobile Plant, the manufacturer is declared by OJSC Arzamas Machine-Building Plant, serial production was planned to begin in 2011.</p>
+<p>Tests of the armored personnel carrier were completed in 2004.</p>
+<p>In 2011, the Ministry of Defense of the Russian Federation refused to purchase the BTR-90, replacing it with the BTR-82</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ye4hen.github.io/allterrain-titans/product/btr-90/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
